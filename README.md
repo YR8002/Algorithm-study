@@ -4,9 +4,16 @@
 
 # Commit Message
 
+### style
+
+타입: 출처 난이도 문제이름
+
 ### type
 
 `solve` : 스스로 해결한 문제
+
 `fail` : 1시간 이상 시도했으나 스스로 해결하지 못 하고 다른 사람의 풀이를 참고한 문제
+
 `retry` : 다시 한 번 풀어보는 문제
+
 `docs` : README 파일 수정
